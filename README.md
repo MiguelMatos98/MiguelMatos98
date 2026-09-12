@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MiguelMatos98
+- 👋 Hi, I’m Miguel
 - 👀 I’m interested in games' programming
-- 🌱 I’m currently learning Computer games' technology at Solent University
-- 💞️ I’m looking to collaborate on projects that may appear
+- 🌱 I’m currently a Bsc (Hons) Computer Games Technology graduate from Solent University
 - 📫 You can reach me through my email: miguelmatosalexandre98@gmail.com
 
 <!---
